@@ -12,3 +12,5 @@ const solution = (n) => {
     }
     return arr.sort((a,b)=> a - b);
 }
+
+// for (let i = 1; i<=n; i+=2) answer.push(i)
