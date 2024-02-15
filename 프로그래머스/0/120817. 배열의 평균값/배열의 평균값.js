@@ -1,5 +1,3 @@
 const solution = (numbers) => {
-    const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0)
-    return result = sum / numbers.length
-    
+    return avar = numbers.reduce((a, b) => a + b, 0) / numbers.length;
 }
