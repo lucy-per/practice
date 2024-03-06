@@ -1,0 +1,1 @@
+const solution = (array) => newArr = array.toString().split("").reduce((a,c)=> Number(c) === 7 ? a + 1 : a + 0 ,0)
